@@ -1,0 +1,88 @@
+section{
+    height:500px;
+    width: 100%;
+    padding bottom:100px;
+}
+.half{
+    width:40%;
+    height:400px;
+    float:left;
+}
+img{
+    width:80%;
+    height:100%;
+    padding-top:5%;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.leftpadding{
+    padding-left: 17%;
+    padding-top:5%;
+    width:420px;
+}
+.toppadding{
+    padding-top: 150px;
+}
+.top{
+    padding-top: 20px;
+}
+.leftpad{
+    padding-left: 15%;
+}
+.top-bg{
+    background-image: url("header-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.midbg{
+    background-image: url("biography-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.buttion{
+    text-decoration: none;
+    padding:10px 20px;
+    border-radius: 5px;
+    background-color: salmon;
+    color: white;
+}
+.footdiv{
+    padding-top: 50px;
+    width:25%;
+    height:250px;
+    float: left;
+}
+.footar{
+    padding-top: 100px;
+}
+.center{
+    text-align: center;
+}
+.box{
+    width: 600px;
+    height: 50px;
+    padding-left: 32%;
+    padding-top: 50px;
+}
+.bottom{
+    background-image: url("footer-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.bottom-buttion{
+    width:278px;
+    height:50px;
+    margin-left: 40%;
+    text-decoration: none;
+    padding:10px 0px;
+    border-radius: 5px;
+    background-color: salmon;
+    color: white;
+}
+h6{
+    color: silver;
+}
